@@ -226,4 +226,4 @@ AntiDot is available as a full free version, allowing you to enjoy all features 
 Download AntiDot today and enjoy a classic pinball experience that’s sure to keep you entertained during your downtime!
 
 ---
-**Last updated:** 2026-11-14 14:49:28 UTC
+**Last updated:** 2026-11-14 19:45:33 UTC
